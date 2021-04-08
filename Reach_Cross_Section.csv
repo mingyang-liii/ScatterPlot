@@ -1,0 +1,24 @@
+Distance,Elevation,Land Cover
+0,216,Sand
+30,214,Vegetation
+60,212,Channel
+90,211,Bar
+120,209,Bar
+150,207,Channel
+180,206,Channel
+210,204,Channel
+240,203,Channel
+270,201,Channel
+300,201,Channel
+330,201,Channel
+360,201,Channel
+390,201,Channel
+420,201,Channel
+450,201,Channel
+480,201,Channel
+510,201,Channel
+540,204,Channel
+570,205,Vegetation
+600,211,Vegetation
+630,213,Vegetation
+660,214,Crop
